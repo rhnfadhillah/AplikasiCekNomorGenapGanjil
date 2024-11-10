@@ -11,17 +11,22 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 - IDE seperti IntelliJ IDEA, Eclipse, atau NetBeans untuk menjalankan dan mengembangkan aplikasi.
 
 ## Fitur   
-    1. Memasukkan angka dan mengecek apakah angka tersebut genap atau ganjil
-    2. Memeriksa apakah angka tersebut merupakan bilangan prima.
-    3. Menampilkan hasil pemeriksaan dalam bentuk dialog.
+1. Memasukkan angka dan mengecek apakah angka tersebut genap atau ganjil.
+
+2. Memeriksa apakah angka tersebut merupakan bilangan prima.
+
+3. Menampilkan hasil pemeriksaan dalam bentuk dialog.
 
 ## Cara Menjalankan
 1. Clone atau Download Repository:
 - Clone repository ini atau download sebagai ZIP dan ekstrak.
+
 2. Buka Proyek di IDE:
 - Buka IDE Anda dan import proyek Java yang telah diunduh.
+
 3. Jalankan Aplikasi:
 - Jalankan kelas AplikasiCekNomor dari IDE Anda.
+
 4. Masukkan Angka:
 - Ketikkan angka pada kolom yang disediakan dan klik tombol "CEK!" untuk melihat hasilnya.
 
@@ -31,14 +36,14 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 
 
 ## Cara Pemakaian
-    1. Masukkan angka 4:
-        Hasil: "Bilangan Genap dan Bukan Prima"
+1. Masukkan angka 4:
+- Hasil: "Bilangan Genap dan Bukan Prima"
 
-    2. Masukkan angka 7:
-        Hasil: "Bilangan Ganjil dan Prima"
+2. Masukkan angka 7:
+- Hasil: "Bilangan Ganjil dan Prima"
 
-    3. Masukkan angka 0 atau angka negatif:
-        Hasil: "Masukkan Angka yang Valid" (Pesan kesalahan)
+3. Masukkan angka 0 atau angka negatif: 
+- Hasil: "Masukkan Angka yang Valid" (Pesan kesalahan)
 
 
 
