@@ -42,7 +42,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 2. Masukkan angka 7:
 - Hasil: "Bilangan Ganjil dan Prima"
 
-3. Masukkan angka 0 atau angka negatif: 
+3. Masukkan angka 0 atau angka negatif:
 - Hasil: "Masukkan Angka yang Valid" (Pesan kesalahan)
 
 
