@@ -35,16 +35,14 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 
 
 
-## Cara Pemakaian
-1. Masukkan angka 4:
-- Hasil: "Bilangan Genap dan Bukan Prima"
+## Contoh Penggunaan
 
-2. Masukkan angka 7:
-- Hasil: "Bilangan Ganjil dan Prima"
-
-3. Masukkan angka 0 atau angka negatif:
-- Hasil: "Masukkan Angka yang Valid" (Pesan kesalahan)
-
+1. **Memasukkan Angka**: 
+   - Pengguna memasukkan angka ke dalam field input.
+2. **Menekan Tombol Cek**: 
+   - Setelah memasukkan angka, pengguna menekan tombol "CEK!".
+3. **Menampilkan Hasil**: 
+   - Aplikasi akan menampilkan hasil dalam bentuk dialog yang menunjukkan sifat angka yang dimasukkan.
 
 
 ## Pembuat
