@@ -1,8 +1,6 @@
 
 # Aplikasi Cek Nomor Ganjil / Genap    
 Tugas 1 - Muhammad Raihan Fadhillah 2210010404
-## Deskripsi
-Aplikasi Cek Nomor adalah sebuah aplikasi sederhana berbasis Java yang digunakan untuk mengecek apakah sebuah angka yang dimasukkan oleh pengguna adalah bilangan genap, bilangan ganjil, dan juga apakah angka tersebut merupakan bilangan prima.
 
 ## Daftar Isi
 - [Deskripsi](#deskripsi)
@@ -13,6 +11,9 @@ Aplikasi Cek Nomor adalah sebuah aplikasi sederhana berbasis Java yang digunakan
 - [Screenshots](#screenshots)
 - [Contoh Penggunaan](#contoh-penggunaan)
 - [Pembuat](#pembuat)
+
+## Deskripsi
+Aplikasi Cek Nomor adalah sebuah aplikasi sederhana berbasis Java yang digunakan untuk mengecek apakah sebuah angka yang dimasukkan oleh pengguna adalah bilangan genap, bilangan ganjil, dan juga apakah angka tersebut merupakan bilangan prima.
 
 ## Prerequisites
 Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
