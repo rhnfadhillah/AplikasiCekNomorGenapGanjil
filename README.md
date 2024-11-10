@@ -19,16 +19,16 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 
 ## Cara Menjalankan
 1. Clone atau Download Repository:
-- Clone repository ini atau download sebagai ZIP dan ekstrak.
+    - Clone repository ini atau download sebagai ZIP dan ekstrak.
 
 2. Buka Proyek di IDE:
-- Buka IDE Anda dan import proyek Java yang telah diunduh.
+    - Buka IDE Anda dan import proyek Java yang telah diunduh.
 
 3. Jalankan Aplikasi:
-- Jalankan kelas AplikasiCekNomor dari IDE Anda.
+    - Jalankan kelas AplikasiCekNomor dari IDE Anda.
 
 4. Masukkan Angka:
-- Ketikkan angka pada kolom yang disediakan dan klik tombol "CEK!" untuk melihat hasilnya.
+    - Ketikkan angka pada kolom yang disediakan dan klik tombol "CEK!" untuk melihat hasilnya.
 
 ## Screenshots
 
